@@ -19,7 +19,11 @@
 }
 
 .corPreto a:active{
-    color: #ffffff;
+    color: #0a5f5b;
+}
+
+.corPreto a:focus{
+    color: aqua;
 }
 
 body{
